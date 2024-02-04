@@ -1,2 +1,7 @@
-# Zogato-Food-Delivery-app-users-analysis
-In this Project we will learn how to create a schema and tables and will insert data into it and also we will try to find various insights from it.
+# Zogato-Food-Delivery-app-users-behaviour
+#  Objective: To develop a comprehensive database for “Zogato”, focusing on user behaviour insights 
+#  Business Implication: i. Utilized historical customer, sales, gold member, and product data. 
+#                         ii. Created a structured database with relationships and inserted data. 
+# Outcome: Extracted key insights using DQL commands to understand customer behaviour, popular products and gold 
+#          membership impact. 
+# Key skills: My SQL - Joins, Sub-queries, Window Functions 
